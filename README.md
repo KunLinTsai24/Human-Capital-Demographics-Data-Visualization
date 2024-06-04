@@ -14,5 +14,5 @@
 
 * In Power BI, I utilized DAX to design the dashboard, which included various KPIs such as patient visit counts, average wait times, and satisfaction scores. The dashboard's interactive features allowed for detailed analysis of different demographic segments. One significant finding was that Native American patients aged 30-40 had a 20% lower satisfaction rate compared to other groups. This insight led to the immediate initiation of targeted improvement initiatives aimed at addressing the specific needs of this demographic, thereby improving overall patient satisfaction.
 
-![](https://github.com/KunLinTsai24/Human-Capital-Demographics-Data-Visualization/blob/main/img/Dashboard.png))
+![](https://github.com/KunLinTsai24/Human-Capital-Demographics-Data-Visualization/blob/main/img/Dashboard.png)
 
