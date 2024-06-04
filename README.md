@@ -1,16 +1,18 @@
-# Human Capital Demographics Data Visualization
+# Patient Emergency Room Visit Report Dashboard
 
 ## Summary
-* In the Human Capital Demographics Data Visualization project, I aimed to identify workforce management issues and enhance employee retention and satisfaction by delving into demographic aspects and turnover rates. I constructed a data pipeline using SQL for precise data extraction and cleaning, ensuring data integrity with advanced querying techniques. This process increased data accuracy by 8%. The cleaned datasets, containing crucial employee information, were exported as CSV files and imported into Tableau. I then created 12 distinct charts, including demographic breakdowns and turnover trends, which revealed a 4% higher termination rate in the auditing department, prompting targeted retention initiatives.
+* In the Patient Emergency Room Visit Report Dashboard project, I focused on improving data integrity and uncovering key insights into patient satisfaction and visit metrics. I engineered an ETL pipeline using Azure Data Factory and T-SQL to automate the data preparation of 10K patient records, which enhanced data accuracy by 8%. The processed data was utilized to create an interactive Power BI dashboard using DAX, which revealed a 20% lower satisfaction rate among Native American patients aged 30-40, leading to targeted improvement initiatives.
 
 ## Situation
-* In the Human Capital Demographics Data Visualization project, I aimed to identify workforce management issues and improve employee retention and satisfaction through deep insights into demographic aspects and turnover rates.
+* In the Patient Emergency Room Visit Report Dashboard project, I aimed to enhance data integrity and provide insights into patient satisfaction and visit metrics to improve service quality.
 
 ## Task
-* My responsibility was to construct a data pipeline using SQL for accurate data extraction and cleaning, ensuring data integrity for precise analysis. Additionally, I was tasked with creating Tableau dashboards to visualize demographic metrics and turnover trends, providing clear, actionable insights.
+* My task was to engineer an ETL pipeline with Azure Data Factory and T-SQL to automate the data preparation process, ensuring high data integrity for accurate analysis. Additionally, I was responsible for designing an interactive Power BI dashboard to track patient visit KPIs and satisfaction rates.
 
 ## Action and Result
-* I initiated the project by designing an SQL-based data pipeline that involved sophisticated querying techniques, including subqueries and CASE-WHEN statements. This pipeline converted inconsistent date formats and standardizing identifiers, which increased data integrity by 8%. These datasets included crucial employee information such as age, department, and termination dates. After exporting these cleaned datasets as CSV files, I imported them into Tableau. In Tableau, I crafted 12 distinct charts, such as bar charts for demographic breakdowns and line charts for tracking turnover rates by year. The dashboards revealed a 4% higher termination rate in the auditing department compared to others, prompting the immediate initiation of targeted retention initiatives.
+* I started the project by designing an ETL pipeline using Azure Data Factory and T-SQL, which involved creating calculated columns and implementing advanced data transformation techniques. This pipeline automated the data preparation process for 10K patient records, increasing data integrity by 8%. The cleaned and prepared data was then exported and used to create an interactive Power BI dashboard.
+
+* In Power BI, I utilized DAX to design the dashboard, which included various KPIs such as patient visit counts, average wait times, and satisfaction scores. The dashboard's interactive features allowed for detailed analysis of different demographic segments. One significant finding was that Native American patients aged 30-40 had a 20% lower satisfaction rate compared to other groups. This insight led to the immediate initiation of targeted improvement initiatives aimed at addressing the specific needs of this demographic, thereby improving overall patient satisfaction.
 
 ![](https://github.com/KunLinTsai24/Human-Capital-Demographics-Data-Visualization/blob/main/img/Dashboard%201.jpg)
 ![](https://github.com/KunLinTsai24/Human-Capital-Demographics-Data-Visualization/blob/main/img/Dashboard%202.jpg)
